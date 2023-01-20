@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+  border-spacing: 10px;
+}
+
+td.a {
+  background: black;
+  height: 150px;
+}
+
+td.b {
+  background: #0df1e5;
+}
+
+td:hover {
+  background: #f1680d;
+}
